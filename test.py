@@ -54,5 +54,3 @@ war2.eat()
 war2.hit()
 war2.walk()
 war2.info()
-
-
